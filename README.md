@@ -19,7 +19,7 @@ This is a simple, styled HTML contact form that includes JavaScript-based input 
 
 ## Getting Started
 
-1. Clone or download the repository.
+1. Clone or download the repository  https://github.com/saisri2501/task-6.git.
 2. Open "task6.html" in your web browser.
 
 ## Tech Used
